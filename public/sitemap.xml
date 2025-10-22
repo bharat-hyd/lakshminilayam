@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Main Pages -->
+    <url>
+        <loc>https://lakshminilayam.com/</loc>
+        <lastmod>2025-04-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://lakshminilayam.com/blog</loc>
+        <lastmod>2025-04-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://lakshminilayam.com/privacy-policy</loc>
+        <lastmod>2025-04-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://lakshminilayam.com/blog/2-&amp;-3BHK-Gated-Community-Apartments-in-Guntur</loc>
+        <lastmod>2025-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://lakshminilayam.com/blog/Apartments-and-flats-for-sale-in-Guntur-Lakshmi-Nilayam</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://lakshminilayam.com/blog/apartment-complex-in-Guntur</loc>
+        <lastmod>2025-05-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://lakshminilayam.com/blog/residential-properties</loc>
+        <lastmod>2025-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+</urlset>

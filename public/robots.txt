@@ -1,0 +1,5 @@
+# Robots.txt for Lakshmi Nilayam
+
+User-agent: *
+Allow: /
+Sitemap: https://lakshminilayam.com/sitemap.xml
