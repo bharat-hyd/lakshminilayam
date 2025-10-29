@@ -491,16 +491,16 @@ export const blogPosts = [
 			  
 		<h2>What Top Investors Suggest about Guntur Real estate</h2>
 		<p class="mb-6">According to leading real estate investors, Guntur is rapidly emerging as a high-potential market driven by consistent economic growth and strong government initiatives. With increasing property demand, expanding infrastructure, and attractive ROI prospects, the city is positioning itself as a smart and sustainable investment destination for the future.</p>
-		<p class="mb-6">If you’re planning to invest or upgrade your property value, now is the right time to explore opportunities in Guntur.</p>
-
-		<h2>FAQs (AEO Section)
+		<p class="mb-6">If you’re planning to invest or upgrade your property value, now is the right time to explore opportunities in Guntur.  <a href="https://lakshminilayam.com/" class="text-[#EB6484] hover:underline"><b>Book Now</b></a></p>
+    <div class="mb-6">
+		<h3  class="text-xl font-bold mb-5 mt-6">FAQs</h3>
 		<h3 class="text-xl font-bold mb-3 mt-6">Q1. Is Guntur a good place to invest in property?</h3>
 		<p class="mb-6">Yes, Guntur is one of the fastest- growing cities in Andhra Pradesh with  infrastructure development and increasing job opportunities, making it ideal for investment.</p>
 		<h3 class="text-xl font-bold mb-3 mt-6">Q2. Which areas in Guntur have high real estate potential?</h3>
 		<p class="mb-6">Localities like Gorantla,syamala nagar, Nallapadu, Inner Ring Road, and Amaravathi Road are emerging as prime investment zones.</p>
 		<h3 class="text-xl font-bold mb-3 mt-6">Q3. How much can property value appreciate in Guntur in the next 5 years?</h3>
 		<p class="mb-6">Depending on location and project type, property values in Guntur can appreciate between 45- 60% over the next five years.</p>
-
+    </div>
 
     `,
     author: "Lakshmi Nilayam Team",
